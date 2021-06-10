@@ -7,7 +7,7 @@ tags: [bridgeHeader,objc,object-c]
 summary: 
 ---
 >
-Objective-C로 Build한 _static Library_를 Swift에서 사용할 때 _Bridge Header_를 사용한다. _Birdge Header_를 명시적으로 Project config( Build Settings)에 지정해줘야 필요한 Header를 import할 수 있다. 
+Objective-C로 Build한 static Library를 Swift에서 사용할 때 Bridge Header를 사용한다. Birdge Header를 명시적으로 Project config( Build Settings)에 지정해줘야 필요한 Header를 import할 수 있다. 
 
 ```
 unknown>:0: error: error opening input file '~/***.h' (No such file or directory)
