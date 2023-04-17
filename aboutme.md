@@ -13,4 +13,4 @@ What else do you need?
 
 ### my history
 
-As a junior software engineer working at Hana Financial Group, **Hana TI** until 2022 years Nov, And Now working at KB Financial Group , **KB Life insurance** :)
+As a junior software engineer worked at Hana Financial Group, **Hana TI** Until 2022 years Nov, And Now working at KB Financial Group , **KB Life insurance** :)
