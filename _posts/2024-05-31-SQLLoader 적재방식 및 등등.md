@@ -10,7 +10,7 @@ tags: [Oracle, sqldr]
 Oracle 설치시 기본적으로 설치되는 유틸리티로 데이터 이관에 특장정을 가지고 있다.
 최근 CDC로 실시간 무중단 데이터 마이그레이션 하는 트랜드가 있다.
 그럼에도 SQLLOADER를 사용하여 운영데이터 -> 개발데이터 이관시 사용되고 있다.
-Control File을 통해 log, bad, dicard file 경로, 적재방식 등등을 필요 내용을 기입한다. 또한 console상에서 컨트롤파일을 통해 console 실행한다.
+Control File을 통해 log, bad, dicard file 경로, 적재방식 등등을 필요 내용을 기입한다. 그리고 console상에서 컨트롤파일, 옵션으로 실행한다.
 
 ### SqlLoader 적재방식
 
