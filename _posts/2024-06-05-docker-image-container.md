@@ -5,16 +5,41 @@ subtitle: 도커 기본적인 Command
 tags: [docker]
 ---
 
-## 도커이미지
+## 이미지
 
-- 컨테이너를 생성하는 필수 요소
+- 컨테이너를 생성하는 필수 요소.
 
-- 여러 개의 계층으로 된 바이너리 파일로 존재
+- 여러 개의 계층으로 된 바이너리 파일로 존재.
 
-- 컨테이너를 생성하고 실행할 때 읽기 전용으로 사용
+- 컨테이너를 생성하고 실행할 때 읽기 전용으로 사용.
+
+- 이미지와 컨테이너는 1:N 구조.
+
+- 바이너리와 의존성이 설치되어 있으며, 격리되어 있음.
+
+## 컨테이너
+
+- 호스트로부터 격리된 프로세스.
+
+- 이미지는 읽기 전용, 변경사항을 컨테이너 계층에 저장됨.
+  
 
 ### 구성 
 - [저장소이름]/[이미지이름]:[태크]
+
+- 태크 생략시 최신버전 lastest.
+
+- 저장소 생략시 Docker Hub.
+
+### 이미지 저장소
+
+- Public
+  - [Docker hub](https://hub.docker.com/), [quay](https://quay.io/)
+
+- Private
+  - [AWS ECR](https://aws.amazon.com/ko/ecr/), [Docker Registry](https://hub.docker.com/_/registry), [Harbor](https://goharbor.io/)
+
+<br>
 
 ```bash
 ## 우분투 이미지가 도커엔진에 없을 경우 docker hub에서 이미지를 pull 해온다.
