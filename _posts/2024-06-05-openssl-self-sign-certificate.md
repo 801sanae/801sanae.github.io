@@ -11,7 +11,7 @@ tags: [openssl, Certificate, JKS]
 ## 키페어를 생성 2048 bit key size
 openssl genrsa -des3 -out test.key 2048
 ```
-> [공홈Doc](https://www.openssl.org/docs/man1.1.1/man1/openssl-genrsa.html)
+<br>
 
 ```bash
 ## 생성된 키페어로 CSR을 생성
