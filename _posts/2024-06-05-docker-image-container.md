@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 도커 이미지, 컨테이너
-subtitle: Each post also has a subtitle
+subtitle: 도커 기본적인 Command
 tags: [docker]
 ---
 
