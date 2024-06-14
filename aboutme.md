@@ -11,4 +11,5 @@ My name is Minyoung Kim. I have the following qualities:
 
 ### my history
 
-I worked as a junior software developer at [**Hana TI**](https://hanati.co.kr/kor/main.jsp), an IT subsidiary of Hana Financial Group, until November 2022. I then worked at [**KB Life Insurance**](https://www.kblife.co.kr/), part of KB Financial Group, until March 2023. Since April 2023.<br>I have been working at [**Kyobo Life Insurance**](https://www.kyobo.com/). :)
+I worked as a junior software developer at [**Hana TI**](https://hanati.co.kr/kor/main.jsp), an IT subsidiary of Hana Financial Group, until November 2022. I then worked at [**KB Life Insurance**](https://www.kblife.co.kr/), part of KB Financial Group, until March 2023. <br>
+Since April 2023, I have been working at [**Kyobo Life Insurance**](https://www.kyobo.com/). :)
