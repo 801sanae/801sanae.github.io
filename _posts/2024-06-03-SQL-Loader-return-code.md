@@ -4,6 +4,7 @@ title: SQL Loader Return Code
 subtitle: SQL Loader Return code 
 date: 2024-06-03
 tags: [Oracle, sqldr]
+comments: true
 ---
 
 ## SQL Loader 수행시 아래와 같은 Code를 Return 합니다.

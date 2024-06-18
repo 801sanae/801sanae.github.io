@@ -3,6 +3,7 @@ layout: post
 title: docker 이미지, 컨테이너 import,export,save,load
 subtitle: docker 이미지 처리 관련
 tags: [docker, container, image]
+comments: true
 ---
 
 ## docker 이미지를 로컬환경에 백업 또는 전송가능.

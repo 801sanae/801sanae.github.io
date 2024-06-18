@@ -3,6 +3,7 @@ layout: post
 title: openssl , Self Sign Certificate Generate
 subtitle: openssl, 자체서명인증서(사설)
 tags: [openssl, Certificate, JKS]
+comments: true
 ---
 
 ## 1. KeyPair 생성 및 CSR, 인증서 생성

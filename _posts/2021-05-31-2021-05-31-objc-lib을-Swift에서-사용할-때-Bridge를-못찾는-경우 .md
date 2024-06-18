@@ -4,7 +4,7 @@ title: objc library를 Swift에서 사용할 때 Bridge header를 못 찾는 경
 subtitle: Swift Project에서 objc library(Static Library)를 사용할 땐 Bridge Header
 date: 2021-05-31 23:33
 tags: [bridgeHeader,objc,object-c]
-summary: 
+comments: true
 ---
 >
 Objective-C로 Build한 static Library를 Swift에서 사용할 때 Bridge Header를 사용한다. Birdge Header를 명시적으로 Project config( Build Settings)에 지정해줘야 필요한 Header를 import할 수 있다. 

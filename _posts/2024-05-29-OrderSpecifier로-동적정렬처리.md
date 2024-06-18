@@ -4,6 +4,7 @@ title: OrderSpecifier로 동적 정렬 처리
 subtitle: QueryDSL Pageable로 동적정렬 Sort 처리
 date: 2024-05-29
 tags: [JAVA, QueryDSL, PageRequest]
+comments: true
 ---
 
 # QueryDSL에서 동적정렬처리

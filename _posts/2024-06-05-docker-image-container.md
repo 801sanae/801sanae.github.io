@@ -3,6 +3,7 @@ layout: post
 title: 도커 이미지, 컨테이너
 subtitle: 도커 기본적인 Command
 tags: [docker]
+comments: true
 ---
 
 ## 이미지

@@ -4,6 +4,7 @@ title: 의존성 주입(D.I) & Bean Injection
 subtitle: Bean Injection은 생성자 주입(Constructor Injection)을 사용하자.
 date: 2024-06-04
 tags: [Bean Injection, Lombok. SpringFramework]
+comments: true
 ---
 
 # Conclusion

@@ -4,6 +4,7 @@ title: SDKMAN 설치 사용방법, JAVA_HOME
 subtitle: SDKMAN을 사용하여 Java 여러 Version 사용관리
 date: 2024-05-27
 tags: [SDKMAN, JAVA_HOME, JAVA]
+comments: true
 ---
 
 # SDKMAN 설치 방법, 사용법 ex JAVA_HOME

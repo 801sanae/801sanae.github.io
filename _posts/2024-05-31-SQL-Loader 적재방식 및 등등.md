@@ -4,6 +4,7 @@ title: SQLLoader 적재방식 및 등등
 subtitle: Oracle Sqlloader 관련 정리
 date: 2024-05-31
 tags: [Oracle, sqldr]
+comments: true
 ---
 
 ### SQL Loader란
