@@ -20,6 +20,9 @@ mysqldump -uroot -p 데이터베이스명 테이블명 > 데이터베이스_DUMP
 
 ## Encoding 옵션 적용
 mysqldump -uroot -p --default-character-set=utf8 데이터베이스명 > 데이터베이스_DUMP.sql
+
+## 특정테이블 제외하고 export
+mysqldump -uroot -p 데이터베이스명 --ignore-table=데이터베이스명.제외할테이블명 > dump.sql
 ```
 
 <br>
