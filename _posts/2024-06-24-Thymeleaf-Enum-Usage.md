@@ -10,7 +10,7 @@ comments: true
 Thymeleaf에서 TAG SELECT 내 데이터를 사용할때 하드코딩으로 하는 방법도 있지만, 아래 두가지 방법으로 Java Enum Type을 사용할 수 있다.
 1. th:each를 사용
 ```html
-<select class="form-select" id="dtl-poiItemCd" name="poiItemCd" th:field="${detail.ProductCd}">
+<select class="form-select" id="dtl-productCd" name="productCd" th:field="${detail.ProductCd}">
     <option th:each="enumValue: ${T(com.example.common.ProductCd).values()}"
             th:value="${enumValue}" 
             th:text="${enumValue.label()}"
@@ -32,11 +32,11 @@ public ProductCd[] productCds() {
 <br>
 * HTML
 ```html
-<select class="form-select" id="dtl-poiItemCd" name="poiItemCd" th:field="${detail.토}">
+<select class="form-select" id="dtl-productCd" name="productCd" th:field="${detail.기본값}">
 	<option th:each="productCd : ${ProductCd}" 
 				  th:value="${productCd}" 
 				  th:text="${productCd.label()}"/>
 </select>
 ```
 
->> th:field 를 사용하여 해당 값을 세팅해준다.
+>> th:field 를 사용하여 해당 기본값을 세팅해준다.
