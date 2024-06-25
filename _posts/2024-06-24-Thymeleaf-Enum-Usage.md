@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thymeeleaf에서 Enum 사용
+title: Thymeleaf에서 Enum 사용
 subtitle: Thymeleaf
 tags: [HTML, Thymeleaf]
 comments: true
